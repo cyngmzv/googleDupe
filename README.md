@@ -24,7 +24,7 @@ Las tecnologías que utilicé, son:
 ### Objetivo del proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 ### Link a demo
-En el siguiente link puedes ver mi proyecto terminado: [googleDupe](#)
+En el siguiente link puedes ver mi proyecto terminado: [googleDupe](https://google-dupe.vercel.app)
 
 
 
